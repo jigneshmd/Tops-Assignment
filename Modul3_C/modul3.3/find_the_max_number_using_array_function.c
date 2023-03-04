@@ -12,7 +12,7 @@ int main()
     {
         scanf("%d", &a[i]);
     }
-    max = a[0];
+    max = 0;
     for (i = 0; i < n; i++)
     {
         if (a[i]>max)

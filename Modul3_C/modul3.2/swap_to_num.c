@@ -1,4 +1,4 @@
-// Sep to number without using third varibel
+// Wap to swap two number without using third varibel
 
 #include<stdio.h>
 int main ()

@@ -5,7 +5,7 @@ int main()
 {
     int i,num,sum=0;
 
-    printf("enter numbere : ");
+    printf("enter number: ");
     scanf("%d",&num);
 
     printf("number of even\n",num);
